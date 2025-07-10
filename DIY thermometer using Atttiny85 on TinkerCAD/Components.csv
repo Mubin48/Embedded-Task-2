@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"Bat3",1,"3 batteries, AA, no 1.5V Battery"
+"U1",1," ATtiny"
+"U2",1," Temperature Sensor [TMP36]"
+"D1",1,"Red LED"
+"R1",1,"1 kΩ Resistor"

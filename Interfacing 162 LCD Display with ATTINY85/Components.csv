@@ -1,0 +1,5 @@
+﻿Name,Quantity,Component
+"U1",1," LCD 16 x 2"
+"U2",1," ATtiny"
+"R1",1,"220 Ω Resistor"
+"Bat1",1,"4 batteries, AA, yes 1.5V Battery"
